@@ -5,7 +5,8 @@ Body:
 - 🚀 Features: Description
 - 💩 @dialcon fix: Description
 
-#Markdown template
+### Markdown template
+
 ```
 Title: Project Name
 Body:
