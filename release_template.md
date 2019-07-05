@@ -1,17 +1,23 @@
 Title: Project Name
 Body:
-- 🔥 Hotfix: Description
-- 🐛 Bugfix: Description
-- 🚀 Features: Description
-- 💩 @dialcon fix: Description
+# What’s Changed
+
+## 🔥 Hotfix - [hotfix name]:
+Description
+## 🐛 Bugfix - [bugfix name]:
+Description
+## 🚀 Feature - [feature name]:
+Description
 
 ### Markdown template
 
 ```
-Title: Project Name
-Body:
-- 🔥 Hotfix: Description
-- 🐛 Bugfix: Description
-- 🚀 Features: Description
-- 💩 @dialcon fix: Description
+# What’s Changed
+
+## 🔥 Hotfix - [hotfix name]:
+Description
+## 🐛 Bugfix - [bugfix name]:
+Description
+## 🚀 Feature - [feature name]:
+Description
 ```
