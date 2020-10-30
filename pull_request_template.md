@@ -57,15 +57,15 @@
 
 ## 🚀 Features:
 
-- [LINEAR-ID] Feature A (Linear link):
+- [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]) Feature A description:
   - Bullet 1
 
 ## 🙌 Improvements:
 
-- [LINEAR-ID] Improvement B (Linear link):
+- [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]) Improvement B description:
   - Bullet 1
 
 ## 🐛 Bug Fixes:
 
-- [LINEAR-ID] Bug fix C (Linear link):
+- [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]) Bug fix C description:
   - Bullet 1
