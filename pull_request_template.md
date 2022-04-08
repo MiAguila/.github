@@ -6,17 +6,17 @@
 
 ## 🚀 Features:
 
-- [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]) Feature A description:
+- [JIRA-ID](https://miaguila.atlassian.net/browse/[JIRA-ID]) Feature A description:
   - Bullet 1
 
 ## 🙌 Improvements:
 
-- [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]) Improvement B description:
+- [JIRA-ID](https://miaguila.atlassian.net/browse/[JIRA-ID]) Improvement B description:
   - Bullet 1
 
 ## 🐛 Bug Fixes:
 
-- [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]) Bug fix C description:
+- [JIRA-ID](https://miaguila.atlassian.net/browse/[JIRA-ID]) Bug fix C description:
   - Bullet 1
 
 <!-- ----------------------------------------------------------------------------- -->
@@ -46,7 +46,7 @@
 <!-- Put an `x` in all the boxes that apply: -->
 
 - [ ] Breaking change (fix or feature that would cause existing functionality to change). You need to test general flows.
-- [ ] Bug fix of [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]).
+- [ ] Bug fix of [JIRA-ID](https://miaguila.atlassian.net/browse/[JIRA-ID]).
 - [ ] Changes in [Use cases](https://docs.google.com/spreadsheets/d/...).
 
 <!-- ----------------------------------------------------------------------------- -->
@@ -60,6 +60,7 @@
 ## Description
 
 <!-- Provide a general summary of your changes and then describe your changes in detail. -->
+<!-- Re size image command [<img src="image.png" width="250"/>](image.png) -->
 
 ## How has this been tested?
 
@@ -78,7 +79,7 @@
 <!-- Put an `x` in all the boxes that apply: -->
 
 - [ ] Breaking change (fix or feature that would cause existing functionality to change). You need to test general flows.
-- [ ] Bug fix of [LINEAR-ID](https://linear.app/mi-aguila/issue/[LINEAR-ID]).
+- [ ] Bug fix of [JIRA-ID](https://miaguila.atlassian.net/browse/[JIRA-ID]).
 - [ ] Changes in [Use cases](https://docs.google.com/spreadsheets/d/...).
 
 ## Types of changes
